@@ -18,6 +18,7 @@ if (metodoMio(x))
 System.out.print(x + " ");                         	 
 }         	 
 	}
+    //al finalizar el metodoMIo la variable j=3 y la aux=false
 public static boolean metodoMio(int variable){
 int j = 2;
 boolean aux=true;
